@@ -1,0 +1,36 @@
+event 1:
+allowed time:(no of hours allowed on which day number)
+eventname:Welcoming and Engagement
+Location:(select a resort or funtion hall name)
+budget:(range of budget)
+capacity:(capacity findout to be)
+
+event 2:
+allowed time:(no of hours allowed on which day number)
+eventname: Mehendi and Sangeet
+Location:(select a resort or funtion hall name)
+budget:(range of budget)
+capacity:(capacity findout to be)
+
+
+Event 3: 
+allowed time:(no of hours allowed on which day number)
+eventname:Haldi Ceremony
+Location:(select a resort or funtion hall name)
+budget:(range of budget)
+capacity:(capacity findout to be)
+
+Event 4: 
+allowed time:(no of hours allowed on which day number)
+eventname:Main Wedding Ceremony
+Location:(select a resortt or funtion hall name)
+budget:(range of budget)
+capacity:(capacity findout to be)
+
+Event 5: 
+allowed time:(no of hours allowed on which day number)
+eventname:Post-Wedding Rituals and Reception
+Location:(select a resort or funtion hall name)
+budget:(range of budget)
+capacity:(capacity findout to be)
+
